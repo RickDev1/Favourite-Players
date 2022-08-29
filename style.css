@@ -75,6 +75,10 @@ body {
     color: azure;
 }
 
+.btn-card:hover {
+    background-color: rgb(25, 130, 130);
+}
+
 .card {
     display: flex;
     justify-content: center;
@@ -152,6 +156,10 @@ p {
     height: 40px;
     font-size: 20px;
     background-color: powderblue;
+}
+
+.calc-btn button:hover {
+    background-color: rgb(25, 130, 130);
 }
 
 h4 {
