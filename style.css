@@ -193,21 +193,22 @@ h4 {
     margin-left: 120px;
 }
 
+main {
+    background-color: rgb(66, 65, 65);
+}
+
 
 
 /* main end */
 /* footer */
 .footer {
     background-color: black;
-
-
-
 }
 
 footer .footer {
     height: 100px;
     width: 100%;
     padding-top: 70px;
-    border-top: 5px solid rgb(102, 105, 108);
+    border-top: 5px solid rgb(153, 156, 158);
 
 }
