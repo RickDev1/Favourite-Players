@@ -108,6 +108,10 @@ p {
     margin-top: 10px;
 }
 
+.card-box1 img {
+    width: 100%;
+}
+
 /* card2 */
 .card-box2 {
     background-color: black;
@@ -115,6 +119,10 @@ p {
     height: 80%;
     margin: 30px;
     border: 2px solid gray;
+}
+
+.card-box2 img {
+    width: 100%;
 }
 
 .card2 {
@@ -132,6 +140,7 @@ p {
 .input1 input {
     width: 40%;
     height: 40px;
+    font-size: 20px;
     margin-left: 20px;
     background-color: dimgrey;
     border: 1px solid white;
