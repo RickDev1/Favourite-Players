@@ -108,6 +108,7 @@ p {
 .card-box2 {
     background-color: black;
     width: 13.89%;
+    height: 80%;
     margin: 30px;
     border: 2px solid gray;
 }
@@ -198,7 +199,15 @@ h4 {
 /* footer */
 .footer {
     background-color: black;
+
+
+
+}
+
+footer .footer {
+    height: 100px;
     width: 100%;
-    height: ;
+    padding-top: 70px;
+    border-top: 5px solid rgb(102, 105, 108);
 
 }
