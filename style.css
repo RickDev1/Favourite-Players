@@ -1,5 +1,44 @@
-.grid {
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* header */
+
+
+
+
+
+.header-bg {
+    background-color: black;
+    padding-top: 0px;
     width: 100%;
-    margin-left: 20%;
+    height: 425px;
     display: flex;
+}
+
+.header-Text {
+    text-align: center;
+
+    color: aliceblue;
+    padding-top: 5%;
+
+
+}
+
+.h-text1 {
+    font-size: 60px;
+    color: darkgray;
+
+}
+
+.img-botm {
+    padding-top: 30%;
+    padding-left: 20%;
+}
+
+
+.header-img {
+    width: 400px;
 }
