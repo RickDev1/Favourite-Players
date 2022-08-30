@@ -229,3 +229,284 @@ footer .footer {
     border-top: 5px solid rgb(153, 156, 158);
 
 }
+
+/* maxtab */
+
+@media screen and (max-width : 1400px) {
+
+    /* header */
+    .header-Text {
+        text-align: center;
+
+        color: aliceblue;
+        padding-top: 5%;
+
+
+    }
+
+    .h-text1 {
+        font-size: 80px;
+        color: darkgray;
+
+    }
+
+    .p-text1 {
+        font-size: 20px;
+        color: dimgrey;
+    }
+
+    .img-botm {
+        padding-top: 30%;
+        padding-left: 20%;
+    }
+
+
+    .header-img {
+        width: 400px;
+    }
+
+    /* main */
+    .card-box1 {
+        background-color: black;
+        width: 15%;
+        margin: 30px;
+        border: 2px solid gray;
+    }
+
+
+    h3 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+
+    .card {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+
+    #list-box {
+        margin-right: 30px;
+    }
+
+    /* .card2 */
+    .card-box2 {
+        background-color: black;
+        width: 15%;
+        height: 80%;
+        margin: 30px;
+        border: 2px solid gray;
+    }
+
+    .Total-price p {
+        margin-left: 70px;
+    }
+
+    .input1 input {
+        width: 70%;
+        height: 40px;
+        font-size: 20px;
+        margin-left: 10px;
+        background-color: dimgrey;
+        border: 1px solid white;
+
+    }
+
+    #coach h4 {
+        margin-left: 5px;
+
+    }
+
+    #coach2 h4 {
+        margin-left: 10px;
+
+    }
+
+
+}
+
+/* tablet */
+@media screen and (max-width:1200px) {
+
+    /* header */
+    .h-text1 {
+        font-size: 40px;
+        color: darkgray;
+
+    }
+
+    .p-text1 {
+        font-size: 20px;
+        color: dimgrey;
+    }
+
+    .header-img {
+        width: 300px;
+        margin-top: 107px;
+    }
+
+    /* main */
+    .card-box1 {
+        background-color: black;
+        width: 30%;
+        margin: 30px;
+        border: 2px solid gray;
+    }
+
+
+    h3 {
+        font-size: 25px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+
+    .card {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+
+    #list-box {
+        margin-right: 30px;
+    }
+
+    /* .card2 */
+    .card-box2 {
+        background-color: black;
+        width: 30%;
+        height: 80%;
+        margin: 30px;
+        border: 2px solid gray;
+    }
+
+    .input1 input {
+        width: 40%;
+        height: 40px;
+        font-size: 20px;
+        margin-left: 20px;
+        background-color: dimgrey;
+        border: 1px solid white;
+
+    }
+
+    #coach h4 {
+        margin-left: 48px;
+
+    }
+
+    #coach2 h4 {
+        margin-left: 22px;
+
+    }
+
+
+}
+
+/* mobile */
+@media screen and (max-width:575px) {
+
+    /* header */
+    .header-bg {
+        background-color: black;
+        padding-top: 0px;
+        width: 100%;
+        height: 425px;
+        display: flex;
+        flex-wrap: wrap-reverse;
+    }
+
+    .header-Text {
+        margin-bottom: -150px;
+    }
+
+    .cardh {
+        display: none;
+    }
+
+
+    .h-text1 {
+        margin-top: 20px;
+        font-size: 40px;
+        color: darkgray;
+
+    }
+
+    .p-text1 {
+        font-size: 20px;
+        color: dimgrey;
+    }
+
+    .header-img {
+        width: 200px;
+        margin-bottom: -14px;
+
+    }
+
+
+    /* main */
+    .card-box1 {
+        background-color: black;
+        width: 50%;
+        margin: 30px;
+        border: 2px solid gray;
+    }
+
+
+    h3 {
+        font-size: 25px;
+    }
+
+    p {
+        font-size: 20px;
+    }
+
+
+    .card {
+        flex-wrap: wrap;
+        width: 100%;
+    }
+
+
+    #list-box {
+        margin-right: 30px;
+    }
+
+    /* .card2 */
+    .card-box2 {
+        background-color: black;
+        width: 50%;
+        height: 80%;
+        margin: 30px;
+        border: 2px solid gray;
+    }
+
+    .input1 input {
+        width: 40%;
+        height: 40px;
+        font-size: 20px;
+        margin-left: 20px;
+        background-color: dimgrey;
+        border: 1px solid white;
+
+    }
+
+    #coach h4 {
+        margin-left: 48px;
+
+    }
+
+    #coach2 h4 {
+        margin-left: 22px;
+
+    }
+
+
+
+}
